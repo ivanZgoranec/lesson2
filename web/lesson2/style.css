@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+ol{
+    color: white;
+}
+a{
+    color: red;
+}
+.img1{
+    width: 1000px;
+    height: 600px;
+    display: block;
+    margin: 0 auto;
+}
+.img2{
+   display: block;
+   margin: 0 auto;
+}
+h3{
+    color: white;
+}
+
